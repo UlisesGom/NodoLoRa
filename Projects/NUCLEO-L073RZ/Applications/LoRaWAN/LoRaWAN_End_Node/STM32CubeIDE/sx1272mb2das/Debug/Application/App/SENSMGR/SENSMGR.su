@@ -1,0 +1,3 @@
+SENSMGR.c:110:8:SENSMGR_u32UpdateSampleRate	8	static
+SENSMGR.c:123:8:SENSMGR_u32ReadSensor	32	static
+SENSMGR.c:155:6:SENSMGR_vInitAllSensors	56	static

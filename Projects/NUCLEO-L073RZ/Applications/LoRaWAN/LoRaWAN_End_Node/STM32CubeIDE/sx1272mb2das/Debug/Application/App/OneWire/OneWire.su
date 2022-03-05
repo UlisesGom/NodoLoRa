@@ -1,0 +1,13 @@
+OneWire.c:154:6:OneWire_vInit	12	static
+OneWire.c:161:7:OneWire_u8Reset	16	static
+OneWire.c:191:6:OneWire_vWriteBit	16	static
+OneWire.c:211:7:OneWire_u8ReadBit	8	static
+OneWire.c:226:6:OneWire_vWrite	16	static
+OneWire.c:238:6:OneWire_vWriteBytes	16	static
+OneWire.c:248:7:OneWire_u8Read	16	static
+OneWire.c:264:6:OneWire_vReadBytes	16	static
+OneWire.c:273:6:OneWire_vSelectSens	16	static
+OneWire.c:285:6:OneWire_vSkip	8	static
+OneWire.c:290:6:OneWire_vResetSearch	0	static
+OneWire.c:301:7:OneWire_vSearch	48	static
+OneWire.c:332:7:OneWire_u8CRC8	20	static

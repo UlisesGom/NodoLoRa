@@ -1,0 +1,9 @@
+MQx.c:24:7:__u8ValidTable	0	static
+MQx.c:113:8:MQx_u16GetRawVal	8	static
+MQx.c:41:7:__fResistanceCalculation	16	static
+MQx.c:51:6:__vCalibration	16	static
+MQx.c:83:6:MQx_vInit	8	static
+MQx.c:118:7:MQx_fGetR0Value	0	static
+MQx.c:123:7:MQx_fGetppm	24	static
+MQx.c:138:6:MQX_vGetProperties	8	static
+MQx.c:148:7:MQx_u8GetResolution	8	static

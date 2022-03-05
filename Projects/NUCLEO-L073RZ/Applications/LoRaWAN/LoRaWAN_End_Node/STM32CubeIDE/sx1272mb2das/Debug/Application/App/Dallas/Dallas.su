@@ -1,0 +1,14 @@
+Dallas.c:34:7:__u8SaveScratch	8	static
+Dallas.c:58:7:__u8ValidAddress	8	static
+Dallas.c:66:7:__u8ReadScratchPad	16	static
+Dallas.c:99:7:__u8WriteScratchPad	16	static
+Dallas.c:132:7:__u8GetResolution	24	static
+Dallas.c:161:7:__u8IsConversionComplete	8	static
+Dallas.c:168:8:__u8WaitForConversion	16	static
+Dallas.c:193:6:Dallas_vBegin	8	static
+Dallas.c:211:7:Dallas_u8GetResolution	16	static
+Dallas.c:225:7:Dallas_u8SetResolution	32	static
+Dallas.c:267:6:Dallas_vSetAutoSave	0	static
+Dallas.c:273:7:Dallas_u8RequestTemp	8	static
+Dallas.c:289:8:Dallas_u16GetRawVal	24	static
+Dallas.c:302:7:Dallas_fGetTempC	8	static

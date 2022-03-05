@@ -1,0 +1,4 @@
+app_sensors.c:100:6:OnTxTimerEvent	8	static
+app_sensors.c:129:6:app_sensorsRead	48	static
+app_sensors.c:107:6:app_sensorsInit	64	static
+app_sensors.c:154:6:app_sensorsUpdate	8	static

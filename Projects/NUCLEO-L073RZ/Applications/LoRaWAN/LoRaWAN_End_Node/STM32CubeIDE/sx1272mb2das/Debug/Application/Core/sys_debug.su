@@ -1,0 +1,4 @@
+sys_debug.c:97:6:DBG_ConfigForLpm.part.0	8	static
+sys_debug.c:65:6:DBG_Disable	8	static
+sys_debug.c:97:6:DBG_ConfigForLpm	8	static
+sys_debug.c:137:6:DBG_ProbesInit	0	static
